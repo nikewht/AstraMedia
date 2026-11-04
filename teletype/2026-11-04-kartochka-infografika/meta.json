@@ -1,6 +1,9 @@
 {
+  "title": "Инфографика для маркетплейсов: нейросеть по вашему заданию — от фото до пяти кадров",
+  "description": "Как подготовить исходники, составить задание нейросети и проверить инфографику для WB, Ozon и Яндекс Маркета. Пошаговый разбор с примерами формулировок и чеклистом ошибок.",
   "topic": "kartochka-infografika",
   "page": "/skills/foto-kartochki-tovara",
-  "status": "failed",
-  "error": "claude exit 1: "
+  "status": "published",
+  "url": "https://teletype.in/@astrahelper/3kc6jSR22_S",
+  "publishedAt": "2026-11-04T07:29:33.688Z"
 }
