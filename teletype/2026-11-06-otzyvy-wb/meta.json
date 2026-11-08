@@ -3,6 +3,9 @@
   "description": "Как работают автоответы на отзывы ВБ: какие сценарии настроить под каждую оценку, какие правила задать боту и какие ошибки портят автоматизацию. Пошаговый чек-лист для продавцов Wildberries.",
   "topic": "otzyvy-wb",
   "page": "/avtootvety-na-otzyvy-wildberries",
-  "status": "failed",
-  "error": "Кнопка публикации не стала активной за 2 минуты — черновик: https://teletype.in/@astrahelper/editor/STAuLQXzzAt"
+  "status": "published",
+  "draftUrl": "https://teletype.in/@astrahelper/editor/STAuLQXzzAt",
+  "attempts": 2,
+  "url": "https://teletype.in/@astrahelper/STAuLQXzzAt",
+  "publishedAt": "2026-11-08T17:37:58.371Z"
 }
