@@ -1,7 +1,7 @@
 {
   "slug": "golos-i-pamyat-agenta",
   "title": "ИИ-агент для маркетплейсов теперь понимает голос продавца и показывает, что запомнил",
-  "category": null,
+  "category": "updates",
   "tags": [
     "маркетплейсы",
     "селлерам",
@@ -11,7 +11,7 @@
   ],
   "canonicalUrl": "https://astrahelper.ru/journal/golos-i-pamyat-agenta",
   "date": "2026-11-09",
-  "cover": null,
+  "cover": "cover.png",
   "status": "pending",
   "dzenUrl": null,
   "publishedAt": null,
